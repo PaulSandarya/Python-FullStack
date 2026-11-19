@@ -1,8 +1,5 @@
-# Cybersecurity Fundamentals: Interview Preparation Guide
+# Cybersecurity Fundamentals
 
-A structured question-and-answer reference covering the core topics asked in security analyst, security engineer, SOC, GRC, and IAM interviews at product companies, service companies, and MNCs.
-
----
 
 ## Table of Contents
 
@@ -746,42 +743,7 @@ Coordinate with HR and legal before acting; preserve logs (DLP, proxy, cloud sto
 
 ---
 
-## 12. Quick Revision Cheat Sheet
 
-| Topic | Remember |
-|-------|----------|
-| CIA | Confidentiality, Integrity, Availability; plus non-repudiation |
-| AAA | Authentication, Authorization, Accounting |
-| MFA | Different *categories* of factors, not just two passwords |
-| Password storage | Argon2id / bcrypt + salt; never fast hashes |
-| SAML / OAuth / OIDC | SSO (XML) / delegated authorization / authentication on OAuth |
-| Least privilege | Minimum access, minimum time (JIT) |
-| RBAC vs ABAC | Role-based vs attribute/context-based |
-| Firewall | Default deny, first match wins, stateful tracking |
-| IDS vs IPS | Detect and alert vs inline block |
-| VPN | IPsec (network layer) vs TLS (application/port 443); prefer ZTNA for app-level access |
-| CVSS | 0–10 severity; combine with EPSS, KEV, and asset criticality |
-| SIEM | Collect, normalize, correlate, alert |
-| MITRE ATT&CK | Tactics and techniques of real adversaries |
-| NIST IR phases | Prepare → Detect/Analyze → Contain/Eradicate/Recover → Post-incident |
-| Order of volatility | RAM before disk |
-| RTO / RPO | Downtime tolerance / data-loss tolerance |
 
----
 
-## Recommended Practice
 
-- Build a home lab (virtual machines with Kali, Windows, a SIEM such as Wazuh or Elastic).
-- Practice on legal platforms: TryHackMe, Hack The Box, Blue Team Labs, CyberDefenders, OWASP Juice Shop.
-- Review certifications' syllabi for structure: CompTIA Security+, CySA+, CEH, CISSP, SC-200, AWS Security Specialty.
-- Read incident reports and the MITRE ATT&CK matrix regularly.
-
-> **Disclaimer:** This material is for education and interview preparation. Apply security testing techniques only on systems you own or have explicit written authorization to test.
-
-## Contributing
-
-Contributions are welcome. Fork the repository, create a feature branch, and open a pull request with a clear description of the change.
-
-## License
-
-Released under the MIT License. See `LICENSE` for details.
