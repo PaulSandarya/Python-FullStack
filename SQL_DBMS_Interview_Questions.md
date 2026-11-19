@@ -1,23 +1,5 @@
-# SQL & DBMS: Top 100 Interview Questions and Answers
+# SQL & DBMS
 
-A curated reference for technical interviews at product companies, service companies, and MNCs. It covers database fundamentals, SQL querying, joins, window functions, normalization, indexing, transactions, and advanced topics.
-
----
-
-## Table of Contents
-
-| # | Section | Questions |
-|---|---------|-----------|
-| 1 | [DBMS Fundamentals](#1-dbms-fundamentals) | Q1 – Q15 |
-| 2 | [SQL Basics](#2-sql-basics) | Q16 – Q30 |
-| 3 | [Joins, Subqueries and Classic Queries](#3-joins-subqueries-and-classic-queries) | Q31 – Q43 |
-| 4 | [Aggregation, Window Functions and CTEs](#4-aggregation-window-functions-and-ctes) | Q44 – Q56 |
-| 5 | [Keys, Constraints and Normalization](#5-keys-constraints-and-normalization) | Q57 – Q70 |
-| 6 | [Indexing and Performance Tuning](#6-indexing-and-performance-tuning) | Q71 – Q82 |
-| 7 | [Transactions and Concurrency](#7-transactions-and-concurrency) | Q83 – Q92 |
-| 8 | [Advanced Topics](#8-advanced-topics) | Q93 – Q100 |
-
----
 
 ## Sample Schema Used in Examples
 
