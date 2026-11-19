@@ -1,4 +1,4 @@
-# TPython Full-Stack Developer Interview Questions and Answers
+# Python Full-Stack Developer Interview Questions and Answers
 
 A practical interview-preparation guide covering Python, programming
 fundamentals, object-oriented programming, databases, backend
