@@ -1,6 +1,6 @@
 # Machine Learning Technical Interview 
 
-**Rules of thumb for answering**
+## 1. **Rules of thumb for answering**
 
 1. Start with a one-line definition, then intuition, then trade-offs.
 2. Give a concrete example from a project or dataset.
